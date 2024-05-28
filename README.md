@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate and connect
 - 📫 You can reach me via govmathewvictor@gmail.com
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: ...
+
 
 <!---
 Govmathew/Govmathew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
